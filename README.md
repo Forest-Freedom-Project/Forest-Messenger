@@ -90,7 +90,7 @@ Coalyni — архитектор, инженер и человек, которы
 --- 
 
 ## 🔗 Ссылки
-- GitHub репозиторий: https://github.com/Forest-Freedom-Project/Forest-Messager
+- GitHub репозиторий: https://github.com/Forest-Freedom-Project/Forest-Messenger
 - I2P: https://geti2p.net/
 - Tor Project: https://torproject.org/ 
 
